@@ -8,6 +8,7 @@ public class AlendarApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AlendarApplication.class, args);
+		System.out.print("hello");
 	}
 
 }
